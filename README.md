@@ -1,4 +1,6 @@
-# Basic image processing techniques
+# Basic Image processing techniques
+
+This project includes basic image procesing techniques, developed in C++ with opencv.
 
 # 1. Read and show images, videos
 # 2. Convert color space
@@ -11,3 +13,5 @@
 # 4. Geometry transformation
   - Scaling
   - Rotating
+
+The project includes 2 components: calling opencv libraries (in demoLib.h) and self-developed functions (called by Main.cpp)
